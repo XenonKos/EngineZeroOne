@@ -1,0 +1,20 @@
+﻿newmtl M_Basic_Wall
+	map_Kd M_Basic_Wall_D.bmp
+	map_Ks M_Basic_Wall_S.bmp
+	bump M_Basic_Wall_N.bmp
+
+newmtl M_Frame
+	map_Kd M_Frame_D.bmp
+	map_Ks M_Frame_S.bmp
+	bump M_Frame_N.bmp
+
+newmtl M_Door
+	map_Kd M_Door_D.bmp
+	map_Ks M_Door_S.bmp
+	bump M_Door_N.bmp
+
+newmtl M_Glass
+	map_Kd M_Glass_D.bmp
+	map_Ks M_Glass_S.bmp
+	bump M_Glass_N.bmp
+
